@@ -10,7 +10,7 @@
 This platform has been designed and built from the ground up to reflect international agency-level design standards while maintaining strict contextual authenticity for Uganda's construction and engineering sector.
 
 - **Client**: EDI K TECHNICAL SERVICES
-- **Location**: Kampala, Uganda
+- **Location**: kamwezi rukiga , Uganda
 - **Disciplines**: Building Construction, Civil Infrastructure, Renovation, Structural CAD Support, Electrical & Solar Installations, Sanitary Plumbing, Project Supervision, and Facility Maintenance.
 - **Tech Stack**: React 18, TypeScript, Vite, Tailwind CSS, Lucide Icons.
 
